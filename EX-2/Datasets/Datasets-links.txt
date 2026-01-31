@@ -1,0 +1,7 @@
+SCENARIO 1 DATASET LINK : 
+
+https://www.kaggle.com/datasets/sohier/calcofi
+
+SCENARIO 1 DATASET LINK : 
+
+https://www.kaggle.com/datasets/debashis74017/lic-stock-price-data
